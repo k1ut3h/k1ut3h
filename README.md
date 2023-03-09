@@ -1,1 +1,1 @@
-Hello my name is k1ut3h and i like to code.
+i like to code.
