@@ -1,1 +1,1 @@
-i like to code.
+learning rust from da memes
