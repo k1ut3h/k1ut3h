@@ -1,1 +1,2 @@
-learning rust from da memes
+have learnt programming languages.
+Now learning to program
